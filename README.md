@@ -46,6 +46,15 @@ To simplify the process, I built an **Excel VBA automation** that performs **Clo
 
 ---
 
+## 📂 Repository Contents
+- `FIFOStockValuation.xlsm` → Macro-enabled workbook with the code.  
+- `ValueClosingStock.bas` → Exported VBA module for reading/importing the macro.  
+- `SampleData.xlsx` → Test dataset (PurchaseRegister + ClosingStock) for quick demo.  
+- `Screenshots/` → Folder with example output (Detailed Report & Summary Report).  
+- `LICENSE` → MIT License text.  
+
+---
+
 ## 📄 License
 This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.  
 You are free to use, modify, and share it, as long as credit is given.  
