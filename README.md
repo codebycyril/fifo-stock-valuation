@@ -11,7 +11,7 @@ To simplify the process, I built an **Excel VBA automation** that performs **Clo
 
 ## ✨ Features
 - Takes input from a **Purchase Register** and a **Closing Stock** sheet.  
-- Generates a **Detailed Report** with bill-wise consumption and references.  
+- Generates a **Detailed Report** with bill-wise stock valuation split and references.  
 - Generates a **Summary Report** with product-wise closing stock values.  
 - Preserves headers in all reports (data is written **only below the headers**).  
 - Adds totals, formatting, and clear headings for easy navigation.  
