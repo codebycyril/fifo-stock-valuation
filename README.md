@@ -23,7 +23,7 @@ To simplify the process, I built an **Excel VBA automation** that performs **Clo
 
 ## 📊 Impact
 - Transformed a process that used to take **weeks** into one that runs in **minutes**.  
-- Turned weeks of manual effort into minutes.
+- Turned weeks of manual effort into minutes.  
 - Improved accuracy and consistency in stock valuation.  
 - Demonstrated how even small automations (like VBA) can bring big efficiency gains in audits.  
 
@@ -40,18 +40,31 @@ To simplify the process, I built an **Excel VBA automation** that performs **Clo
 
 ---
 
-## 🛠 Tech Stack
-- Excel + VBA  
-- Problem-driven logic (designed during real audit work)  
-
----
-
 ## 📂 Repository Contents
 - `FIFOStockValuation.xlsm` → Macro-enabled workbook with the code.  
 - `ValueClosingStock.bas` → Exported VBA module for reading/importing the macro.  
 - `SampleData.xlsx` → Test dataset (PurchaseRegister + ClosingStock) for quick demo.  
 - `Screenshots/` → Folder with example output (Detailed Report & Summary Report).  
 - `LICENSE` → MIT License text.  
+
+---
+
+## 📷 Example Output
+
+**1. Run the Macro (Alt + F8)**  
+![Run Macro](Screenshots/1.Run%20macro%20ALT+F8.png)
+
+**2. Detailed Report**  
+![Detailed Report](Screenshots/Closing%20Stock%20valuation-Detailed%20Report.png)
+
+**3. Summary Report**  
+![Summary Report](Screenshots/Stock%20valuation%20summary%20result.png)
+
+---
+
+## 🛠 Tech Stack
+- Excel + VBA  
+- Problem-driven logic (designed during real audit work)  
 
 ---
 
