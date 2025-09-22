@@ -1,5 +1,9 @@
 # FIFO Stock Valuation (Excel VBA Project)
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+![Excel VBA](https://img.shields.io/badge/Excel-VBA-blue.svg)
+![Built by Cyril](https://img.shields.io/badge/Built%20by-Cyril-orange.svg)
+
 Stock valuation during audits was taking a huge amount of time — sometimes weeks of repetitive manual work.  
 To simplify the process, I built an **Excel VBA automation** that performs **Closing Stock Valuation using FIFO**, turning a slow task into a structured and efficient workflow.
 
